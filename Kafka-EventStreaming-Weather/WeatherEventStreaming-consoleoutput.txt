@@ -1,0 +1,5 @@
+Enter the bootstrap_servers configuration (example: localhost:9092'): xxx.xxx.x.xx:9092
+Enter your Weather API Key: xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Enter the City Name: Mumbai
+Published weather data to Kafka topic: WeatherData
+Done! The Weather Data has been successfully written to 'weather_data.txt' file
